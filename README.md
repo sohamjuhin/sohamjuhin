@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohamjuhin
+- 👋 Hi, I’m Soham Das (@sohamjuhin)
 
 <!---
 sohamjuhin/sohamjuhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
