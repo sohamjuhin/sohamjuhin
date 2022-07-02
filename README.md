@@ -91,7 +91,6 @@ You can click the Preview link to take a look at your changes.
 <a  target="_blank"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white " alt="alt"/> </a> 
 <a  target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white " alt="alt"/> </a> 
-<a target="_blank"> <img src="https://www.freepik.com/free-icon/cyber-security_14860475.htm#query=cyber%20security&position=10&from_view=search " alt="alt"/> </a>
 
 
 </br>
