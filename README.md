@@ -9,6 +9,9 @@ My other interest in Algorithm,programming and system design,Networking security
 
 <details>
 <summary>📈 Stats</summary>
+
+
+
 <br>
 My Github Stats
 
@@ -16,15 +19,6 @@ My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=sohamjuhin) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=sohamjuhin)
-
-
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
 
       
       
