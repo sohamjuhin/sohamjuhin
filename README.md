@@ -15,10 +15,10 @@ My other interest in Algorithm,programming and system design,Networking security
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=sohamjuhin) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamjuhin&theme=sohamjuhin) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=sohamjuhin) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=sohamjuhin)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohamjuhin&theme=sohamjuhin) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohamjuhin&theme=sohamjuhin)
 
       
       
