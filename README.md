@@ -7,26 +7,6 @@ I am Complete UG computer science application(BCA)(H) in MAKAUT(2018-21).Now I a
 My other interest in Algorithm,programming and system design,Networking security,Quantam cryptography,Quantam security, IOT, Software development, ML,AI,Digital Marketing, Forensic Science, Defence Systems & technology Design and Development, Materials Science,Molecular biology & Microbiology,Genetics Science.
 
 
-<details>
-<summary>📈 Stats</summary>
-
-
-
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamjuhin&theme=sohamjuhin) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohamjuhin&theme=sohamjuhin) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohamjuhin&theme=sohamjuhin)
-
-      
-      
-      
-</details>
-
-
-
 <!---
 sohamjuhin/sohamjuhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
