@@ -3,7 +3,7 @@
 👷🏻Bio->>
       I am Cyber & Bioinformation Security Researcher||Quantum information security Researcher||Network Security Researcher||Computer Forensics ,Security System Design & Developer.
 I am always interested in learning the answers to how, why and what relating to Technologies around me.
-I am Complete UG computer science application(BCA)(H) in MAKAUT(2018-21).Now I am study in Master of Science|| MSc IN IT(CYBER SECURITY)[CS] || in MAKAUT MAIN CAMPUS(this is course & research based 2 years special masters programs). 
+I am Complete UG computer science application(BCA)(H) in MAKAUT(2018-21).Now I am study in Master of Science|| MS IN IT(CYBER SECURITY)[CS] || in MAKAUT MAIN CAMPUS(this is course & research based 2 years special masters programs). 
 My other interest in Algorithm,programming and system design,Networking security,Quantam cryptography,Quantam security, IOT, Software development, ML,AI,Digital Marketing, Forensic Science, Defence Systems & technology Design and Development, Materials Science,Molecular biology & Microbiology,Genetics Science.
 
 
