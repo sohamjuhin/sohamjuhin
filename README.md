@@ -30,8 +30,8 @@ My other interest in Algorithm,programming and system design,Networking security
   ![LaTeX](https://img.icons8.com/color/48/000000/latex.png)
 
 - **Machine Learning:** 
-  ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png)
-  ![Keras](https://img.icons8.com/color/48/000000/keras.png)
+  ![PyTorch](https://imgur.com/your-pytorch-icon-url.png)
+  ![Keras](https://imgur.com/your-keras-icon-url.png)
   ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
   ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png)
 
