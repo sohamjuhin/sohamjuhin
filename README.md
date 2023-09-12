@@ -12,8 +12,7 @@ My other interest in Algorithm,programming and system design,Networking security
 - **Programming Languages:** 
   ![C/C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
   ![Python](https://img.icons8.com/color/48/000000/python.png)
-  ![Julia](https://image.flaticon.com/icons/png/128/919/919842.png) <!-- Replace with the direct URL of your Julia icon -->
-  ![MATLAB/Octave](https://image.flaticon.com/icons/png/128/919/919848.png) <!-- Replace with the direct URL of your MATLAB/Octave icon -->
+ ->
   ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 - **Web Development:** 
