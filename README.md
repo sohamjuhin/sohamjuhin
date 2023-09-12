@@ -11,10 +11,11 @@ My other interest in Algorithm,programming and system design,Networking security
 ## Skills
 - **Programming Languages:** 
   ![C/C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-  ![Python](https://img.icons8.com/color/48/000000/python.png)
-  ![Julia](https://img.icons8.com/color/48/000000/julia.png)
+   ![Python](https://img.icons8.com/color/48/000000/python.png)
   ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
+  <!--![Julia](https://img.icons8.com/color/48/000000/julia.png)>
+  
 - **Web Development:** 
   ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
   ![CSS](https://img.icons8.com/color/48/000000/css3.png)
@@ -30,18 +31,20 @@ My other interest in Algorithm,programming and system design,Networking security
   ![LaTeX](https://img.icons8.com/color/48/000000/latex.png)
 
 - **Machine Learning:** 
-  ![PyTorch](https://imgur.com/your-pytorch-icon-url.png)
-  ![Keras](https://imgur.com/your-keras-icon-url.png)
-  ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
   ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png)
 
+ ![PyTorch](https://imgur.com/your-pytorch-icon-url.png)
+  ![Keras](https://imgur.com/your-keras-icon-url.png)
+  
 - **Cybersecurity Tools:** 
   ![Metasploit](https://img.icons8.com/color/48/000000/metasploit.png)
-  ![Nmap](https://img.icons8.com/color/48/000000/nmap.png)
+  
+   <!-- ![Nmap](https://img.icons8.com/color/48/000000/nmap.png)
   ![Wireshark](https://img.icons8.com/color/48/000000/wireshark.png)
   ![Snort](https://img.icons8.com/color/48/000000/snort.png)
 
-- **Digital Forensics Toolkits:** 
+  <!--- **Digital Forensics Toolkits:** 
   ![Autopsy](https://img.icons8.com/color/48/000000/autopsy.png)
   ![Sleuth Kit](https://img.icons8.com/ios/48/000000/magnifying-glass.png)
   ![Volatility](https://img.icons8.com/color/48/000000/volatility.png)
